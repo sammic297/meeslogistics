@@ -1,1 +1,0 @@
-<?php require('coming_soon.php') ?>
